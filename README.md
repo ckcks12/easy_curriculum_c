@@ -1,5 +1,6 @@
 # 처음 보는 C언어
 `C`
+---------------
 강의 소개
 https://raw.githubusercontent.com/ckcks12/easy_curriculum_c/master/0.txt
 C언어는 프로그래밍 언어입니다. 프로그래밍 언어는 무슨 언어일까요?
