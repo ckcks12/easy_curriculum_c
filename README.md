@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/ckcks12/easy_curriculum_c/master/2.txt
 [변수]변수는 왜 필요하고 어떻게 생겼나요?
 jbsooe26274935_c
 [반복문]컴퓨터는 똑같은 일을 1,000,000,000,000번 해도 안질린데요.
-
+aflws2421_c
 [조건문]그럼 만약에...
 
 [함수]끼리 끼리 노는 건 컴퓨터도 마찬가지네요
