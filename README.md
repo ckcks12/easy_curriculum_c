@@ -1,27 +1,27 @@
-# Ã³À½ º¸´Â C¾ð¾î
+# ì²˜ìŒ ë³´ëŠ” Cì–¸ì–´
 `C`
 ---------------
-°­ÀÇ ¼Ò°³
+ê°•ì˜ ì†Œê°œ
 https://raw.githubusercontent.com/ckcks12/easy_curriculum_c/master/0.txt
-C¾ð¾î´Â ÇÁ·Î±×·¡¹Ö ¾ð¾îÀÔ´Ï´Ù. ÇÁ·Î±×·¡¹Ö ¾ð¾î´Â ¹«½¼ ¾ð¾îÀÏ±î¿ä?
+Cì–¸ì–´ëŠ” í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ìž…ë‹ˆë‹¤. í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ëŠ” ë¬´ìŠ¨ ì–¸ì–´ì¼ê¹Œìš”?
 https://raw.githubusercontent.com/ckcks12/easy_curriculum_c/master/1.txt
-Àü¼³ÀÇ ·¹Àüµå Hello, World! ÇØº¸±â
+ì „ì„¤ì˜ ë ˆì „ë“œ Hello, World! í•´ë³´ê¸°
 https://raw.githubusercontent.com/ckcks12/easy_curriculum_c/master/2.txt
-º¯¼ö´Â ¿Ö ÇÊ¿äÇÏ°í ¾î¶»°Ô »ý°å³ª¿ä?
+ë³€ìˆ˜ëŠ” ì™œ í•„ìš”í•˜ê³  ì–´ë–»ê²Œ ìƒê²¼ë‚˜ìš”?
+jbsooe26274935_c
+ì»´í“¨í„°ëŠ” ë˜‘ê°™ì€ ì¼ì„ 1,000,000,000,000ë²ˆ í•´ë„ ì•ˆì§ˆë¦°ë°ìš”.
 
-ÄÄÇ»ÅÍ´Â ¶È°°Àº ÀÏÀ» 1,000,000,000,000¹ø ÇØµµ ¾ÈÁú¸°µ¥¿ä.
+ê·¸ëŸ¼ ë§Œì•½ì—...
 
-±×·³ ¸¸¾à¿¡...
+ë¼ë¦¬ ë¼ë¦¬ ë…¸ëŠ” ê±´ ì»´í“¨í„°ë„ ë§ˆì°¬ê°€ì§€ë„¤ìš”
 
-³¢¸® ³¢¸® ³ë´Â °Ç ÄÄÇ»ÅÍµµ ¸¶Âù°¡Áö³×¿ä
+Cì–¸ì–´ì˜ ì–´ë‘ ì˜ ë‹¤í¬ í¬ì¸í„° ë“¤ì–´ê°€ê¸° ì „ì— ì½ì–´ìš”
 
-C¾ð¾îÀÇ ¾îµÒÀÇ ´ÙÅ© Æ÷ÀÎÅÍ µé¾î°¡±â Àü¿¡ ÀÐ¾î¿ä
+ì–´ë‘ ì˜ ë‹¤í¬ ì£½ìŒì˜ ë°ìŠ¤ í¬ì¸í„° 
 
-¾îµÒÀÇ ´ÙÅ© Á×À½ÀÇ µ¥½º Æ÷ÀÎÅÍ 
+í¬ì¸í„°ë„ ë³„ ê²Œ ì•„ë‹Œë° ë°°ì—´ì´ ë­ë¼ê³ 
 
-Æ÷ÀÎÅÍµµ º° °Ô ¾Æ´Ñµ¥ ¹è¿­ÀÌ ¹¹¶ó°í
+ë¬¸ìžì™€ ë¬¸ìžì—´ì€ ì‚¬ì‹¤ í¬ê²Œ ë‹¤ë¥´ì§€ ì•Šì•„ìš”
 
-¹®ÀÚ¿Í ¹®ÀÚ¿­Àº »ç½Ç Å©°Ô ´Ù¸£Áö ¾Ê¾Æ¿ä
-
-ÀÌÁ¦ ¾îµð°¡¼­ C¾ð¾î ÀÔ¹® Ã¥ º¸Áö¸»¾Æ¿ä ±×·³ ¾È³ç!
+ì´ì œ ì–´ë””ê°€ì„œ Cì–¸ì–´ ìž…ë¬¸ ì±… ë³´ì§€ë§ì•„ìš” ê·¸ëŸ¼ ì•ˆë…•!
 ----------
